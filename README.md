@@ -1,2 +1,1 @@
-# CSharp-Examples
-Examples written in C# by Skyrimus
+# C# Examples written in C# by Skyrimus
